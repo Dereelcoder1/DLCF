@@ -514,6 +514,14 @@ footer{
     padding-left: 100px;
     
 }
+.announce-text button{
+    padding: 12px 15px;
+    background-color: transparent;
+    border: 2px solid #fff;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
 
 
 
